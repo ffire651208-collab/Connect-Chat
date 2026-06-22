@@ -1,0 +1,6 @@
+{
+  "name": "Connect Chat",
+  "description": "Production Ready Chat Application with Chat, WebRTC voice/video calls, interactive Admin Dashboard, Profiles, Reactions, Replies, Group Chats and Local Storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
